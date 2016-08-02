@@ -20,7 +20,7 @@ body {
 
 header {
     height: 350px;
-    background-image: url(images/header_bg.jpg);
+    background-image: url(/images/header_bg.jpg);
     background-size: cover;
 }
 
@@ -30,7 +30,7 @@ header {
 
 .testimonial {
     text-align: center;
-    background-image: url(images/testimonial_bg.jpg);
+    background-image: url(/images/testimonial_bg.jpg);
     background-size: cover;
 }
 
